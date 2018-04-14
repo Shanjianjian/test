@@ -1,3 +1,0 @@
-jianjian
-shan
-gather
